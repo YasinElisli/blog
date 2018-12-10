@@ -1,0 +1,21 @@
+.postImgWrapper{
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size:100% 100%,cover !important;
+    height: auto ;
+ 
+}
+.blogTitle{
+	font-size: 1.9em;
+	font-weight: bold;
+	margin-bottom: 14px !important;
+	text-transform: capitalize;
+	color: #3205A9;
+}
+.etrafli{
+	color: #3E05B7 !important;
+	text-transform: capitalize !important;
+}
+.blogCard{
+	height: 210px;
+}

@@ -1,0 +1,19 @@
+.artPic{
+	height: 400px;
+	background-repeat: no-repeat !important;
+	background-position: center !important;
+	background-size:100% 100%, cover !important;
+}
+.artText:first-letter {
+	float:left;
+	font-weight: bold;
+	font-size: 4rem !important;
+	line-height: 3rem !important;
+	height:4rem !important;
+	text-transform: uppercase !important;
+}
+.artDiv{
+    word-break: break-all;
+    text-align: justify;
+}
+

@@ -1,0 +1,35 @@
+.err404 {
+  font-size: 16em;
+  margin: 0.2em 0.5em;
+  color: rgba(255, 255, 255, 0.7);
+  margin-bottom: 0px;
+}
+.errMsg {
+  font-size: 2.9em;
+  color: rgba(255, 255, 255, 0.6);
+}
+.sorrySmile {
+  font-size: 1.5em;
+  position: relative;
+  top: 10px;
+}
+div.error {
+  height: 600px;
+  text-align: center;
+  background: url(https://38.media.tumblr.com/546c0cd48d71f210f9b67a389003790d/tumblr_neq0yw9rMA1tm16jjo1_500.gif) no-repeat center center fixed;
+  background-size: cover;
+}
+.errBtn{
+  margin-top: 40px !important;;
+}
+.errBtn a{
+  background: #B8B8B8;
+  color: #333;
+}
+.errBtn a:hover{
+  background: #3E05B7;
+  color: #f1f1f1;
+}
+.errBtn a:first-child{
+  margin-right: 20px;
+}
